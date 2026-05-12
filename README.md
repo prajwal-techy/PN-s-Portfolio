@@ -48,6 +48,9 @@ The goal of this project was to improve my frontend development skills, practice
 - Projects
 - Contact
 
+## Portfolio is live at: 
+    visit [portfolio] https://prajwal-techy.github.io/PN-s-Portfolio/
+
 
 
 ## 📸 Portfolio Screenshots
